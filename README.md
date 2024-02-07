@@ -29,3 +29,9 @@ pip install pygame
 Ejecuta el script `SpaceInvader.py` para comenzar a jugar. Usa las teclas y el ratón según las instrucciones mencionadas anteriormente.
 
 ¡Diviértete jugando a Space Invaders!
+
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
